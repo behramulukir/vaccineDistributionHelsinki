@@ -1,4 +1,10 @@
-# Introduction
+# Helsinki Vaccine Distribution Database - Course Project
+
+Team Members: Alexander Popov, Behram Ulukir, Egor Eremin, Ilya Nekrasov, Zohreh Sherafatpour
+
+This is a course project for Aalto University course Databases (CS-A1153). The goal is creating an PostgreSQL database for vaccine distribution in Helsinki region and doin data analysis on that databases. Tech-stack includes PostgreSQL, Python, NumPy, Pandas, matplotlib. 
+
+## Introduction
 
 With the start of the COVID-19 pandemic in 2020, the world entered a new
 and catastrophic phase with lockdowns for months. During that time,
@@ -147,7 +153,7 @@ While working on the second version of our database design, we
 standardized naming and used the same naming convention for all
 classes/attributes.
 
-# Data Cleaning and Further Improvements
+## Data Cleaning and Further Improvements
 
 It is generally a good idea to process your data before feeding it into
 SQL to avoid feeding erroneous data which may also lead to database
@@ -172,7 +178,7 @@ efficiency and coherency of our database. Though, it is possible to say
 that the current version of the database works enough efficiently for
 the scale of given model data.
 
-# Working as a Group
+## Working as a Group
 
 While working as a group, there are two important things: 1. Creating
 the right environment 2. Balancing the workload. In this project, we
@@ -227,7 +233,7 @@ have done so far for the current part of the project, and solved the
 problems that we had. After these meetings, we wrote the documentation,
 prepared the submission file, and submitted it.
 
-# Conclusion
+## Conclusion
 
 Overall, this database is designed to work with model data which is very
 very smaller compared to the real vaccination data of Finland. Although
