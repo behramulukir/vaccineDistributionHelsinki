@@ -48,7 +48,7 @@ according to the given information.
 
 # Design
 
-![First Version of UML Diagram.](Databases%20Project%20UML.png)
+![First Version of UML Diagram.](https://github.com/behramulukir/vaccineDistributionHelsinki/blob/main/images/First%20UML.png)
 
 In this first version of the UML diagram, there are 11 different
 classes, all of which are connected to each other by a reasonable
@@ -95,7 +95,7 @@ the only class violating BCNF is Batch, therefore we decomposed it into
 two. However, the feedback we received and the data given to us led us
 to change our UML diagram and relational data.  
 
-![Final UML Diagram.](Final%20UML.png)
+![Final UML Diagram.](https://github.com/behramulukir/vaccineDistributionHelsinki/blob/main/images/Final%20UML.png)
 
 Figure [2](#fig:final_uml) is the final version of the UML diagram and
 it contains 12 classes. When we transform this UML diagram into a
