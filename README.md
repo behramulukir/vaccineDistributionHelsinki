@@ -227,7 +227,7 @@ Estimated schedule
 
 </div>
 
-Table  [1](#tab:schedule) shows the initial plan for the project. Before
+The table shows the initial plan for the project. Before
 starting to document, we met as a group, discussed and reviewed what we
 have done so far for the current part of the project, and solved the
 problems that we had. After these meetings, we wrote the documentation,
