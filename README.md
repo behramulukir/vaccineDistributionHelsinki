@@ -46,7 +46,7 @@ libraries, then run the sqlPython.py file. This will automatically
 connect to the PostgreSQL server, and create and populate tables
 according to the given information.
 
-# Design
+## Design
 
 ![First Version of UML Diagram.](https://github.com/behramulukir/vaccineDistributionHelsinki/blob/main/images/First%20UML.png)
 
